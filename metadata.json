@@ -1,0 +1,6 @@
+{
+  "name": "Smart Interview Coach AI",
+  "description": "An intelligent, friendly, and professional AI interview trainer helping college students prepare for placements with structured evaluations and personalized tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
